@@ -230,7 +230,7 @@ CUDA 11.7+ (GPU recommended)
 ### Installation
 
 ```bash
-git clone https://github.com/SonaliAnand24/audio-style-transfer.git
+git clone https://github.com/SonaliAnand24/MTech-Work.git
 cd audio-style-transfer
 pip install -r requirements.txt
 ```
