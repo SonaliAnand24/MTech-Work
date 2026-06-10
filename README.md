@@ -11,7 +11,7 @@
 
 *A systematic five-model comparison of deep neural approaches to cross-speaker vocal style transfer*
 
-**Content Speaker:** Personal voice recording (GANINP4) &nbsp;|&nbsp; **Style Target:** Dr. APJ Abdul Kalam
+**Content Speaker:** Personal voice recording &nbsp;|&nbsp; **Style Target:** Dr. APJ Abdul Kalam
 
 </div>
 
@@ -417,11 +417,11 @@ See [`docs/ADDING_MORE_RECORDINGS.md`](docs/ADDING_MORE_RECORDINGS.md) for the f
 ## Citation
 
 ```bibtex
-@mastersthesis{yourname2024audiostyle,
+@mastersthesis{Sonali2024audiostyle,
   title   = {Exploring Audio Style Transfer Using Deep Neural Networks},
-  author  = {Your Name},
+  author  = {SONALI ANAND},
   year    = {2024},
-  school  = {Your Institution},
+  school  = {University Of Hyderabad},
   type    = {MTech Thesis}
 }
 ```
