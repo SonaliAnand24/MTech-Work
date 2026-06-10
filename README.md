@@ -303,8 +303,8 @@ audio-style-transfer-dnn/
 ### Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/audio-style-transfer-dnn.git
-cd audio-style-transfer-dnn
+git clone https://github.com/SonaliAnand24/Audio-Style-transfer.git
+cd Audio-Style-transfer
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 ```
