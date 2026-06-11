@@ -1,0 +1,23 @@
+spectrogram:
+  sample_rate: 22050
+  n_fft: 1024
+  hop_length: 256
+  n_mels: 80
+  fmin: 50
+  fmax: 8000
+generator:
+  n_mels: 80
+  base_ch: 32
+  dilations: [1, 3, 9]
+discriminator:
+  base_ch: 16
+data:
+  dir_self:  data/processed/self/
+  dir_kalam: data/processed/kalam/
+training:
+  n_epochs: 100
+  batch_size: 8
+  lr: 0.0002
+  lambda_cyc: 10.0
+  lambda_idt: 5.0
+  save_every: 20
