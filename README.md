@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-MTech%20Thesis-orange?style=for-the-badge)
 
-**MTech Thesis · Department of Computer Science and Engineering**
+**MTech Thesis · Department of Computer Science and Engineering · University Of Hyderabad **
 
 *A systematic five-model comparison of deep neural approaches to cross-speaker vocal style transfer*
 
@@ -429,5 +429,5 @@ See [`docs/ADDING_MORE_RECORDINGS.md`](docs/ADDING_MORE_RECORDINGS.md) for the f
 ---
 
 <div align="center">
-<sub>MTech Thesis · Department of Computer Science and Engineering</sub>
+<sub>MTech Thesis · Department of Computer Science and Engineering · University Of Hyderabad</sub>
 </div>
